@@ -26,10 +26,10 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **Material UI & Next.js**  
-- 💡 Interested in **Web Development, AI/ML & Embedded Systems**  
+- 🌱 Currently learning **Material UI & AWS**  
+- 💡 Interested in **Web Development & Embedded Systems**  
 - 📫 Reach me at: **baishyaneelam2@gmail.com**  
-- ⚡ Fun fact: I love solving coding challenges on **LeetCode & CodeChef**  
+- ⚡ Fun fact: I love solving coding challenges on **LeetCode**  
 
 ---
 
