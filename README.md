@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,python,cpp,git,github,aws,postman,opencv,arduino,blender,matlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,mongodb,mysql,python,cpp,git,github,aws,postman,opencv,arduino,matlab" />
 </p>
 
 ---
