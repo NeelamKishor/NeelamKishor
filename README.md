@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neelam Kishor Baishya</h1>
-<h3 align="center">💻 A passionate Web Developer & Tech Enthusiast from India 🚀</h3>
+<h3 align="center">💻 A passionate Web Developer & Tech Enthusiast  🚀</h3>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neelamkishor&label=Profile%20views&color=0e75b6&style=flat" alt="neelamkishor" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="divider"/>
 </p>
+
 
 ---
 
@@ -55,5 +57,7 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="minions coding"/>
+</p>
 
